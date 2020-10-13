@@ -6,3 +6,5 @@ Reflection
  
 // Your reflection goes here
 In the session today, we were introduced to Git/GitHub. We were shown a quick demo on the advantages of using VS Code. We installed an extension onto VS Code. We have done an introductory demo of how to committ changes in files to a repo that we cloned onto our machines.
+
+I am still getting my head around how GitHub browser, GitHub desktop and VS Code work together.
