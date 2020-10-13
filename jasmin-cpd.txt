@@ -9,4 +9,6 @@ In the session today, we were introduced to Git/GitHub. We were shown a quick de
 
 I am still getting my head around how GitHub browser, GitHub desktop and VS Code work together.
 
+Here is a line.
+
 Here is another line.
