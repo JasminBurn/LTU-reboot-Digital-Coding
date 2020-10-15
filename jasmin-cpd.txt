@@ -1,16 +1,16 @@
-Module / Session - date
+Module / Session date
  
 1.3. - 13/10/2020
  
 Reflection
  
-// Your reflection goes here
 In the session today, we were introduced to Git/GitHub. We were shown a quick demo on the advantages of using VS Code. We installed an extension onto VS Code. We have done an introductory demo of how to committ changes in files to a repo that we cloned onto our machines.
 
 I am still getting my head around how GitHub browser, GitHub desktop and VS Code work together.
 
-Here is a line.
-
-Here is another line.
-
-Here is 1 more line.
+1.4. - 15/10/2020
+ 
+Reflection
+ 
+I feel like I am getting the hang of how GitHub browser, GitHub desktop and VS Code work together.
+I worked out that my site wasn't showing in the browser as I didn't have 'main' selected for the root.
