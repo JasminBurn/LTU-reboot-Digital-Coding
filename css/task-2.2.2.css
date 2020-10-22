@@ -1,0 +1,23 @@
+  img {
+      max-width: 300px;
+  }
+  
+  body {
+    background-color: rgb(25, 100, 126);
+  }
+  
+  h1 {
+    color: pink;
+    text-align: center;
+  }
+  
+  p {
+    color: pink;
+    font-family: verdana;
+    font-size: 30px;
+  }
+
+  ol {
+    color: pink;
+    font-size: 20px;
+  }
