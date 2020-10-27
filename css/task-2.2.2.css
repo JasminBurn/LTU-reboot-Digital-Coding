@@ -13,15 +13,17 @@
   
   p {
     color: pink;
-    font-family: verdana;
-    font-size: 30px;
+    font-family: "verdana", sans-serif;
     font-style: italic;
     font-weight: bold;
     font-size: 4.5em;
-    font-family: "verdana", sans-serif;
   }
 
   ol {
     color: pink;
     font-size: 20px;
+  }
+
+  ol li {
+    color: green;
   }
