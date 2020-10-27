@@ -13,15 +13,12 @@
   
   p {
     color: pink;
-<<<<<<< Updated upstream
     font-family: verdana;
     font-size: 30px;
-=======
     font-style: italic;
     font-weight: bold;
     font-size: 4.5em;
     font-family: "verdana", sans-serif;
->>>>>>> Stashed changes
   }
 
   ol {
