@@ -28,7 +28,10 @@
     color: pink;
     font-size: 20px;
   }
-
-  ul li {
-    color: green;
-  }
+span {
+  color: orange;
+}
+a:link  {color:#FF0000;} /* unvisited link */
+a:visited {color:#00FF00;} /* visited link */
+a:hover, a:focus {color:#FF00FF;} /* mouse over or select with keyboard*/
+a:active {color:#0000FF;} /* selected link */
