@@ -1,0 +1,14 @@
+.sidebar {
+    float:left;
+    width:100px;
+    background: teal;
+}
+.main {
+    float:right;
+    width:100px;
+    background: pink;
+}
+body {
+    border: solid black;
+    height: 200px;
+}
