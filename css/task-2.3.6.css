@@ -1,8 +1,6 @@
-.relative{
-    position: relative;
-    left: 20px;
-    top: 50px;
-    height: 100px;
-    background-color: yellow;
-    border: 1px solid green;
-  }
+.box {
+  border:8px solid green;
+  width: 500px;
+  height: 500px;
+  margin: 50px auto;
+}
