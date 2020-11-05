@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    display: flex;
+}
+nav {
+    justify-content: flex-end;
+}
+a {
+
+}
+
+.container {
+    margin: auto;
+}
+
+.search-container {  
+    justify-content: center;
+}
+
+input type {
+    border-radius: 50%;
+}
