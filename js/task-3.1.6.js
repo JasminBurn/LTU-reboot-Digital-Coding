@@ -8,5 +8,3 @@ var totalRounded = total.toFixed(2);
 var totalBill = 'Your bill came to £' + preTip + ' with a discretionary' + tipPercent + '% tip of £' + roundedTip + '. Your bill is £' + totalRounded + '.'
 
 document.write(totalBill);
-alert(totalBill);
-document.write(totalBill)
