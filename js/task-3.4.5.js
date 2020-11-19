@@ -14,3 +14,7 @@ function letsCook(cook) {
 }
 
 outputRecipe(lasagne);
+
+//function inside of an object is called a 'method'
+
+//codepen: https://codepen.io/pixel_to_code/pen/qBZMMOg?editors=0012

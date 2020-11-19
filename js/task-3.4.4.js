@@ -15,3 +15,5 @@ for(var index = 0; index < ingredients.length; index++ ) {
     console.log( ingredients[index] )
 
 }
+
+//codepen: https://codepen.io/pixel_to_code/pen/qBZMMOg?editors=0012
