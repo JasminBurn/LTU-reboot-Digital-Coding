@@ -9,3 +9,9 @@ function outputRecipe(recipe) {
     }
 
 outputRecipe(lasagne);
+
+for(var index = 0; index < ingredients.length; index++ ) {
+
+    console.log( ingredients[index] )
+
+}
