@@ -1,6 +1,5 @@
 var imgColScheme = document.getElementById ("colorscheme");
-    imgColScheme.setAttribute('src', 'http://placekitten.com/g/600/500');
-
+   imgColScheme.setAttribute('src', 'http://placekitten.com/g/600/500');
 
 var paragraph = document.querySelectorAll( "p" );
     paragraph.forEach( function(para) {
