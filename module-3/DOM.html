@@ -19,10 +19,17 @@
 
         var paragraph = document.querySelectorAll( "p");
 
-            for(var index = 0; index < paragraph.length; index++ ) {
-               paragraph[index].style.color = "red";
-            }
+            // 1 way to change p color:
+
+           // for(var index = 0; index < paragraph.length; index++ ) {
+             //  paragraph[index].style.color = "red";
+            // }
+
+            // Another way of doing the same job:
          
+         paragraph.forEach( function(para) {
+            para.style.color = "blue";
+         });
 
     </script>
 
