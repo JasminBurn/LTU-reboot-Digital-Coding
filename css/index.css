@@ -21,11 +21,18 @@ h3 {
     color: #f2294e;
 }
 
+img {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        width: 90%;
+        margin: 0 auto;
+}
+
 #consoleimg {
     width: 900px;
     border-radius: 100px;
     border: 5px solid grey;
-    margin-left: 2rem;
     
 }
 
@@ -33,13 +40,11 @@ h3 {
     width: 300px;
     border-radius: 100px;
     border: 5px solid grey;
-    margin-left: 5rem;
 }
 
 #colorschemeimg {
     width: 500px;
     border: 5px solid grey;
-    margin-left: 5rem;
 }
 
 figcaption {
