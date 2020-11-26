@@ -1,11 +1,24 @@
+.selection-container {
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+
 .main img {
-    width:200px
+    width: 200px;
+    margin: 10px; 
 }
 
 .active {
     background-color: grey;
     color: white;
-    border-color: fuchsia;
-    border-radius: 20px;
-    border-width: 3px;
+
+}
+
+.image-selections {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
 }
