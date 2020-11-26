@@ -5,4 +5,7 @@
 .active {
     background-color: grey;
     color: white;
+    border-color: fuchsia;
+    border-radius: 20px;
+    border-width: 3px;
 }
