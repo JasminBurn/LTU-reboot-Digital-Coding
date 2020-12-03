@@ -2,17 +2,17 @@ var arrBookList = [
     {
         title:"The Hobbit",
         author:"JRR Tolkein",
-        hasRed:false,
+        hasRead:false,
     },
     {
-        title:"Hobbit",
+        title:"LOTR",
         author:"JRR Tolkein",
-        hasRed:false,
+        hasRead:false,
     },
     {
         title:"Harry Potter",
         author:"JK Rowling",
-        hasRed:true,
+        hasRead:true,
     },
 ];
 
